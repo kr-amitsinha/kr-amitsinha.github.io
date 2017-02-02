@@ -12,9 +12,9 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0
 
 url: https://asinha872.github.io
 
@@ -34,7 +34,7 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: sin.hyp.a
 twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -48,12 +48,12 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: kr.amitsinha30@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    amitsinha:
+        name: Amit Sinha
+        bio: Student, Shiv Nadar University
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
