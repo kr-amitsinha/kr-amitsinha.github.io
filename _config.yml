@@ -35,18 +35,18 @@ disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: sin.hyp.a
-twitter: mytwitter
+# twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+# github: mygithub
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: Amit-Sinha-51
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 email: kr.amitsinha30@gmail.com
 
@@ -68,7 +68,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you need projects, comment the *projects* configs below
-#projects: true
+projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
