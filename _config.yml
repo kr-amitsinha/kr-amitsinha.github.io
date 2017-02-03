@@ -19,9 +19,6 @@ resume-url: https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0
 url: https://meamitsinha.github.io
 
 permalink: /:title/
----
----
-background-image: url('/assets/images/profile.jpg')
 
 markdown: kramdown
 highlighter: rouge
@@ -64,7 +61,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
