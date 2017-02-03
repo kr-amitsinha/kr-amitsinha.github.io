@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Amit Sinha, 21, Final Year student at Shiv Nadar University. I am majoring in Computer Science and minoring in mathematics. My area of interests include Data Science, Artificial Intelligence and Machine learning. Apart from these, programming, debating, watching movies , Indian history and cricket contribute to my hobbies and interest. You can find more about me from my <a href=https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0>resume</a></p>
+<p>I am Amit Sinha, 21, Final Year student at Shiv Nadar University. I am majoring in Computer Science and minoring in mathematics. My area of interests include Data Science, Artificial Intelligence and Machine learning. Apart from these, programming, debating, watching movies , Indian history and cricket contribute to my hobbies and interest. You can find more about me from my <a href="https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0">resume</a></p>
 
 
 <h2>Skills</h2>
