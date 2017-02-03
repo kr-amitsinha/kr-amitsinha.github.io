@@ -19,6 +19,9 @@ resume-url: https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0
 url: https://meamitsinha.github.io
 
 permalink: /:title/
+---
+---
+background-image: url('/assets/images/profile.jpg')
 
 markdown: kramdown
 highlighter: rouge
