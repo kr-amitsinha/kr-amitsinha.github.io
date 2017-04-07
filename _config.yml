@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0
 
-url: https://meamitsinha.github.io
+url: https://kr-amitsinha.github.io
 
 permalink: /:title/
 
@@ -31,7 +31,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: mydisqus
+#disqus: mydisqus
 
 # if you don't have any of social below, comment the line
 facebook: sin.hyp.a
@@ -42,7 +42,7 @@ facebook: sin.hyp.a
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: meamitsinha
+github: kr-amitsinha
 # stackoverflow: 7044681/mystackoverflow
 quora: Amit-Sinha-51
 # reddit: username
