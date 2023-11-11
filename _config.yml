@@ -9,6 +9,7 @@ bio: Tech@Concerto AI, Cricket, Quiz, Movies
 # better with square images
 external-image: false
 picture: assets/images/profile.jpeg
+about: assets/images/about.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
