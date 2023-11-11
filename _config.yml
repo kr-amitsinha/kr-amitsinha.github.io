@@ -1,6 +1,6 @@
 # main text of home
-name: Amit Sinha
-bio: Student, Shiv Nadar University
+name: Kumar Amit Sinha
+bio: Tech@Concerto AI, Cricket, Movies, Quiz
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -35,16 +35,16 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 facebook: sin.hyp.a
-# twitter: mytwitter
+# twitter: sinhyperbolica
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: kr-amit-sinha
 # youtube: myyoutube
 # spotify: myspotify
 github: kr-amitsinha
 # stackoverflow: 7044681/mystackoverflow
-quora: Amit-Sinha-51
+# quora: Amit-Sinha-51
 # reddit: username
 # medium: medium
 # vimeo: myvimeo
@@ -52,11 +52,11 @@ email: kr.amitsinha30@gmail.com
 
 authors:
     amitsinha:
-        name: Amit Sinha
-        bio: Student, Shiv Nadar University
+        name: Kumar Amit Sinha
+        bio: Tech@Concerto AI, Cricket, Movies, Quiz
         external-image: false
-        picture: assets/images/profile.jpg
-        twitter: johndoe
+        picture: assets/images/profile.jpeg
+        # twitter: johndoe
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
