@@ -1,6 +1,6 @@
 # main text of home
 name: Kumar Amit Sinha
-bio: Tech@Concerto AI, Cricket, Movies, Quiz
+bio: Tech@Concerto AI, Cricket, Quiz, Movies
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -8,13 +8,13 @@ bio: Tech@Concerto AI, Cricket, Movies, Quiz
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.jpeg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0
+resume-url: https://github.com/kr-amitsinha/my_resume/blob/main/Kumar_Amit_Sinha_Professional_CV.pdf
 
 url: https://kr-amitsinha.github.io
 
@@ -43,7 +43,7 @@ linkedin: kr-amit-sinha
 # youtube: myyoutube
 # spotify: myspotify
 github: kr-amitsinha
-# stackoverflow: 7044681/mystackoverflow
+stackoverflow: 8090387/sinhyperbolica
 # quora: Amit-Sinha-51
 # reddit: username
 # medium: medium
@@ -53,7 +53,7 @@ email: kr.amitsinha30@gmail.com
 authors:
     amitsinha:
         name: Kumar Amit Sinha
-        bio: Tech@Concerto AI, Cricket, Movies, Quiz
+        bio: Tech@Concerto AI, Cricket, Quiz, Movies
         external-image: false
         picture: assets/images/profile.jpeg
         # twitter: johndoe
