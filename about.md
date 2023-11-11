@@ -4,10 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I am Amit Sinha, 21, Final Year student at Shiv Nadar University. I am majoring in Computer Science and minoring in mathematics. My area of interests include Data Science, Artificial Intelligence and Machine learning. Apart from these, programming, debating, watching movies , Indian history and cricket contribute to my hobbies and interest. You can find more about me from my <a href="https://drive.google.com/open?id=0ByJRBT3KWhh-Zkc0WHhReVI0bE0">resume</a></p>
+<p>This is Amit, a software developer by profession and curious by nature. As a seasoned professional with over 6 years in tech, my journey spans architecting scalable systems to delving into the intricate world of databases. Beyond the realm of code, I'm a cricket aficionado reveling in the elegance of the game. Movies, reading about Modern Indian history, and social media scroll takes up my other free time. 
+
+This space would be about the projects I do, tech and otherwise and tasks I undertake. Idea is to be held accountable to all the things I write here. Blogs, Goals pages would be coming up next.</p>
 
 
-<h2>Skills</h2>
+
+<!-- <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>C/C++</li>
@@ -17,7 +20,7 @@ layout: page
 	<li>Git</li>
 	<li>Algorithms</li>
 	<li>Mathematics(Statistics, Algebra, Graph Theory)</li>
-</ul>
+</ul> -->
 
 <!--<h2>Projects</h2>
 
