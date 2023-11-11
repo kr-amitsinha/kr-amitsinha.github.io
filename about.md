@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.about }})
+![Profile Image](assets/images/about.jpeg)
 
 <p>This is Amit, a software developer by profession and curious by nature. As a seasoned professional with over 6 years in tech, my journey spans architecting scalable systems to delving into the intricate world of databases. Beyond the realm of code, I'm a cricket aficionado reveling in the elegance of the game. Movies, reading about Modern Indian history, and social media scroll takes up my other free time. </p>
 
